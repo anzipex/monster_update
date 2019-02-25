@@ -1,5 +1,5 @@
 #!/bin/bash
-#script written by a.akulin
+#script written by anzipex
 
 # exit codes:
 #  0 - all is okay
